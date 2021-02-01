@@ -10,7 +10,8 @@ git clone https://github.com/RobertsOrleans/into_in_git.git # Lai noklonētu pro
 git add .
 git commit -m "Veiktās izmaiņas!"
 git push origin main
-git status
+
+git status # uzzināt kāds ir faila status
 
 git config user.name "Roberts Orleans"
 git config user.mail "robertsorleans@gmail.com"
