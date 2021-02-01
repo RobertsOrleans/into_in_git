@@ -9,8 +9,13 @@ git clone https://github.com/RobertsOrleans/into_in_git.git # Lai noklonētu pro
 
 git add .
 git commit -m "Veiktās izmaiņas!"
-git push origin master
+git push origin main
+git status
 
 git config user.name "Roberts Orleans"
 git config user.mail "robertsorleans@gmail.com"
+
 ```
+
+## Izmantotā literatūra
+Super grāmata.
